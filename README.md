@@ -7,7 +7,7 @@
   - u.data(consists of userid,itemid,rating and timestamp)
   - My_Ratings.csv(dummy dataset for testing)
   
--Jupyter Notebook
+- Jupyter Notebook
 
 ##### Steps:-
 1. Download Zip file or clone https://github.com/mayuripatkar/Movie-Recommender.git
